@@ -58,7 +58,7 @@ If you're using **GitHub Desktop**:
 3. Click **"Clone"**
 
 If you're using the **command line**:
-git clone https://github.com/MohamedBadawy19/Dynamic-Neuron-Model-Project.git
+git clone https://github.com/Kareem-Taha-05/Izhikevich-Dynamic-Neuron-Model.git
 
 ---
 
