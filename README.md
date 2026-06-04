@@ -557,7 +557,7 @@ A comprehensive written report covering the mathematical derivations, implementa
 This project is released under the **MIT License**. You are free to use, modify, and distribute it with proper attribution.
 
 ```
-MIT License — Copyright (c) 2025 Mohamed Badawy and contributors
+MIT License — Copyright (c) 2025
 ```
 
 ---
