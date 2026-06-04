@@ -19,7 +19,6 @@
 - [Comparative Analysis](#comparative-analysis)
 - [Getting Started](#getting-started)
 - [Project Report](#project-report)
-- [Contributors](#contributors)
 - [License](#license)
 
 ---
