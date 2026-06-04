@@ -1,6 +1,6 @@
-# 🧠 Dynamic Neuron Model - PINN Visualizer (JavaScript)
+# 🧠 Dynamic Neuron Model, PINN Method
 
-This project is a dynamic visualization tool built in **JavaScript** to showcase the results of a Physics-Informed Neural Network (PINN) trained to simulate **neuron spiking dynamics** using the **Izhikevich model**.
+[This project](https://izhikevich-pinn-results.vercel.app) is a dynamic visualization tool built in **JavaScript** to showcase the results of a Physics-Informed Neural Network (PINN) trained to simulate **neuron spiking dynamics** using the **Izhikevich model**.
 
 Rather than just presenting static numbers, this tool brings the analysis to life with **interactive plots and animated graphs** — offering an intuitive understanding of model performance, errors, neuronal behavior, and biomedical significance.
 
